@@ -1,0 +1,15 @@
+# Core Gemini SDK
+google-genai>=1.16.0
+
+# Video processing
+opencv-python>=4.8.0
+
+# Image handling
+Pillow>=10.0.0
+
+# Visualization (optional, for notebooks)
+matplotlib>=3.7.0
+
+# Jupyter support (optional)
+jupyter>=1.0.0
+ipython>=8.12.0
